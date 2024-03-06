@@ -1,0 +1,9 @@
+@import url(style/head.css):
+@import url(style/principal)
+
+body { 
+background-color: black
+/* alinha as divs verticalmente ao centro */
+
+
+}
